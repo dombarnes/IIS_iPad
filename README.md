@@ -17,6 +17,6 @@ There are already loads of tutorials on creating an IPA file for beta distributi
 6. Add your own CSS to style.css
 
 ## Additional Info
-I use (http://twitter.github.io/bootstrap/)[Twitter Bootstrap] in my setup just for some added niceness. Just follow their instructions to use.  
+I use [Twitter Bootstrap](http://twitter.github.io/bootstrap/) in my setup just for some added niceness. Just follow their instructions to use.  
 
 Then you just need to browse on your iPad to the server address and follow your own instructions.
