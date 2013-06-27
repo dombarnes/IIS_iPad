@@ -1,0 +1,36 @@
+body {
+	background-image:url(background.png);
+	max-width: 2048px;
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: 300;
+}
+h1 {
+	font-weight: 300;
+}
+#masthead {
+	padding-top:160px;
+	width:600px;
+	min-width:600px;
+	display:block;
+	padding-left:280px;
+	padding-right:280px;
+	margin:10px;
+}
+
+
+.box {
+	display:block;
+	height:auto;
+	width:200px;
+	float:left;
+	padding:10px;
+	margin:10px;
+	text-align: center;
+	background-color: white;
+	border:1px solid black;
+	/*-webkit-box-shadow:5px 5px lightgrey;*/
+}
+
+a:hover {
+	background-color:lightgrey;
+}
